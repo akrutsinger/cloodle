@@ -7,4 +7,7 @@ export const NAMES = {
 		{"clue":"is a big, fancy boat", "answer":"catamaran"},
 		{"clue":"is a great and sudden suffering", "answer":"catastrophe"},
 	]
+	"ow": [
+		{"clue":"sometimes gets you wet", "answer":"cloud"}
+	]
 }
